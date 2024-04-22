@@ -7,7 +7,6 @@ Created on Wed Aug  9 15:54:29 2023
 """
 
 
-#%% READ THE DATA
 import os
 from scipy.linalg import expm, inv
 import pandas as pd
